@@ -1,0 +1,35 @@
+#include <iostream>
+
+using namespace std;
+
+int main();
+{
+	cout << "Hello!" << endl;
+	cin.get();
+
+	cout << "My name is Emily!" << endl;
+	cin.get();
+
+	cout << "I like tea and cucumbers" << endl;
+	cin.get();
+
+	cout << "My favorite bands are Fall Out Boy and 5 Seconds of Summer" << endl;
+	cin.get();
+
+	cout << "5sos suck lol" << endl;
+	cin.get();
+
+	cout << "I like DavidsTea" << endl;
+	cin.get();
+
+	cout << "My parents are watching asian dramas at the moment lol" << endl;
+	cin.get();
+
+	cout << "I am going to regret writing this in 5 years" << endl;
+	cin.get();
+
+	cout << "Alright bye" << endl;
+	cin.get();
+
+	return 0;
+}
